@@ -1,0 +1,58 @@
+<svg viewbox="0 0 1280 640" width="1280" height="640" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css">
+      #fish {
+        animation: wiggle 3s ease-in-out infinite;
+      }
+      .swim {
+        animation: swim 30s infinite;
+      }
+      @keyframes wiggle {
+	0%, 100% {
+          transform: translateY(0%);
+        }
+        50% {
+          transform: translateY(8%);
+        }
+      }
+      .meander {
+        offset-path: path('M -300,192 50,80 240,30 560,400 900,192 1300,640 Z');
+        animation: meander 30s linear infinite;
+      }
+      @keyframes meander {
+        100% {
+          offset-distance: 100%;
+        }
+      }
+      @keyframes swim {
+        0% {
+          transform: translateX(-300px);
+          animation-timing-function: ease-out; 
+        }
+        45% {
+          transform: translateX(512px);
+        }
+	65% {
+          transform: translateX(512px);
+          animation-timing-function: cubic-bezier(0,0.5,1,1); 
+        }
+        100% {
+          transform: translateX(100%);
+        }
+      }
+    </style>
+      <g id="fish">
+        <path fill="#000000" id="body" d="M 432,0 745,313 745,551 432,864 119,495 119,369 Z" />
+        <path fill="#000000" id="tail" d="M 0,257 85,369 85,495 0,607 Z" />
+        <path fill="#000000" id="head" d="M 779,347 864,432 779,517 779,453 800 ,432 779,411 Z" />
+        <path fill="#ffffff" id="mark1" d="M 173,369 345,166 345,698 173,495 Z" />
+        <path fill="#ffffff" id="mark2" d="M 432,64 560,192 560,672 432,800 Z" />
+       <path fill="#ffffff" id="mark3" d="M 615,247 715,347 715,517 615,617 Z" />
+      </g>	
+  </defs>
+  <rect width="100%" height="100%" fill="#000000" />
+  <circle cx="640" cy="320" r="150" fill="#ffffff" />
+  <g class="swim">
+    <use href="#fish" transform="translate(0,180) scale(0.3)"/>
+  </g>
+</svg>
