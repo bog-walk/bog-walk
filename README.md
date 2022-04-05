@@ -11,7 +11,6 @@ I was an equine veterinarian in a past life.
 
 Now I read fewer x-rays & do a lot more maths.
 
-![Kotlin](assets/kotlin.svg)
-![Compose](assets/compose.svg)
+![Tech stack](assets/tech-stack.svg)
 
 I use [![Blender logo](assets/icons/blender_32.png)](https://www.blender.org/) when I'm feeling nostalgic.

@@ -4,11 +4,12 @@
     <use id="hexf" href="#hex" fill="#000" stroke="#000" stroke-width="5px"/>
     <use id="hexo" href="#hex" opacity="0.2"/>
     <use id="hexd" href="#hex" fill="none" stroke="#000" stroke-width="5px" stroke-dasharray="13" stroke-linecap="round"/>
+    <rect id="kotlin" fill="#ff0000" width="30" height="30"/>
   </defs>
   <rect fill="#fff" width="100%" height="100%" rx="20"/>
   <g id="kotlin" transform="translate(445.4,116.8)">
     <use href="#hexf"/>
-    <image xlink:href="kotlin_45.png?sanitize=true" x="27" y="21"/>
+    <a href="https://www.java.com/en/" target="_blank"><use href="#kotlin" x="27" y="21"/></a>
   </g>
   <g id="java" transform="translate(445.4,223.4)">
     <use href="#hexf"/>

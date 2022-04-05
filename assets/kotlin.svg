@@ -1,7 +1,0 @@
-<svg width="1000" height="640" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <defs><rect id="icon" fill="#ff0000" width="10" height="10"/></defs>
-  <g transform="translate(445.4,116.8)">
-    <polygon points="25,0 75,0 100,43.3 75,86.6 25,86.6 0,43.3" fill="#000" stroke="#000" stroke-width="5px"/>
-    <use href="#icon" x="27" y="21"/>
-  </g>
-</svg>
