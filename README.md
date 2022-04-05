@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/bogwalk-banner.svg" alt="BogWalk progile banner" width="100%" height="100%"/>
+  <img src="assets/bogwalk-banner.svg" alt="BogWalk GitHub banner" width="100%" height="100%"/>
 </div>
 
 
@@ -9,7 +9,10 @@ In 2018 I was an equine veterinarian completing a surgical internship.
 
 I was an equine veterinarian in a past life.
 
-No I read fewer x-rays & do a lot more maths.
+Now I read fewer x-rays & do a lot more maths.
 
+<div align="center">
+  <img src="assets/tech-stack.svg" alt="BogWalk tech stack diagram"/>
+</div>
 
-I occasionally blend when I'm feeling nostalgic.
+I use [![Blender logo](assets/icons/blender_32.png)](https://www.blender.org/) when I'm feeling nostalgic.
