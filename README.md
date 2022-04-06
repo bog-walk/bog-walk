@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/bogwalk-banner.svg" alt="BogWalk GitHub banner" width="100%" height="100%"/>
+  <img src="assets/bogwalk-banner.svg" alt="BogWalk GitHub banner"/>
 </div>
 
 
@@ -11,6 +11,11 @@ I was an equine veterinarian in a past life.
 
 Now I read fewer x-rays & do a lot more maths.
 
-![Tech stack](assets/tech-stack.svg)
+<div align="center">
+  <map name="links>
+    <area href="https://kotlinlang.org/" alt="Checkout Kotlin" target="_blank" shape=poly coords="470,116 420,116 545,159 420,202 470,202 445,159"/>
+  </map>
+  <img src="assets/tech.png" alt="BogWalk tech stack diagram" usemap="#links"/>
+</div>
 
 I use [![Blender logo](assets/icons/blender_32.png)](https://www.blender.org/) when I'm feeling nostalgic.
