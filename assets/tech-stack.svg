@@ -1,5 +1,5 @@
 <svg width="1280" height="640" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <rect width="100%" height="100%" rx="20" fill="white"/>
-  <image xlink:href="square.svg#shape"><desc>A lovely rect</desc></image>
+  <image xlink:href="./square.svg#shape"><desc>A lovely rect</desc></image>
   <rect x="500" y="500" width="100" height="100" fill="black"/>
 </svg>
