@@ -7,7 +7,9 @@
 
 <p align="center">In 2018 I was an equine veterinarian completing a surgical internship.</p>
 
-<p align="center">Now I look at fewer x-rays & do a lot more maths. I write blog posts and use [![Blender Software logo](/assets/icons/blender_16.png "Blender logo")](https://www.blender.org/) when I'm feeling nostalgic for academia.</p>
+<p align="center">Now I look at fewer x-rays & do a lot more maths. I write blog posts and use [![Blender Software logo](assets/icons/blender_16.png "Blender logo")](https://www.blender.org/) when I'm feeling nostalgic for academia.</p>
+
+Here's a logo ![Blender Software logo](assets/icons/blender_16.png "Blender logo")
 
 
 <div align="center">
