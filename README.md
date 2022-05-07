@@ -7,12 +7,11 @@
 
 <p align="center">In 2018 I was an equine veterinarian completing a surgical internship.</p>
 
-<p align="center">Now I look at fewer x-rays & do a lot more maths. I write blog posts and use <a><img src="assets/blender_32.png" alt="Blender software logo" title="Blender"/></a> when I'm feeling nostalgic for academia.</p>
+<p align="center">Now I look at fewer x-rays & do a lot more maths.</p>
+
+<p align="center">I write blog posts and use <a style="position:relative;top:10px;"><img src="assets/blender_32.png" alt="Blender software logo" title="Blender"/></a> when I'm feeling nostalgic.</p>
 
 
 <div align="center">
-  <img src="assets/tech-stack.png" alt="BogWalk tech stack diagram" usemap="#techmap"/>
-  <map name="techmap">
-    <area shape="rect" coords="50,50,300,300" alt="test" title="test" href="https://blender.org"/>
-  </map>
+  <img src="assets/tech-stack.png" alt="BogWalk tech stack diagram"/>
 </div>
